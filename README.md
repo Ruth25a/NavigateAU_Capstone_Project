@@ -7,6 +7,7 @@ Date_of_Upload: 6th_April,2024(06/04/2024)
 Email: 160704a@acadiau.ca 
 Organization: Acadia_University
 A few things to note:
+I didn't add my library folder because that, alone, was around 3GB.
 If you wish to test out the editor, please make sure that the Navigation Meash baking is on unless it gives an error that it can't find a path. I couldn't figure out why it was doing that without breaking my code.
 When building and running, there is an already saved Nav.apk file. You are free to replace it and run as usual. Please make sure your device is plugged into whatever system you're using.
 This app should be able to run on any ANDROID device.
