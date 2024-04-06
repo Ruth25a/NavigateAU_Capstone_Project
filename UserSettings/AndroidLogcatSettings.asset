@@ -1,0 +1,274 @@
+{
+    "m_SelectedDeviceId": "RFCNB06NEHN",
+    "m_SelectedProcess": {
+        "deviceId": "RFCNB06NEHN",
+        "name": "com.DefaultCompany.NavigateAU",
+        "processId": 27112,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 19605,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 15283,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 11470,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 32463,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 5614,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 7002,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 10445,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 27671,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 30523,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 19546,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 23731,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 22013,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 28941,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 22194,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 17724,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 18770,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 2458,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 23397,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 10388,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 8024,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 11581,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 24861,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 27680,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 6536,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 5721,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 30314,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 17662,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 20128,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 22337,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNB06NEHN",
+            "name": "com.DefaultCompany.NavigateAU",
+            "processId": 27112,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 0
+}
